@@ -1,8 +1,13 @@
-### Hi there 👋
+### Hi there 👋, I'm Kamilla
+
+I'm a Multimedia Designer with a bachelor in Web Development
+
+- 🔭 currently looking for a frontend job 
+- 🔧 WebDev and UX/UI Design
 
 Recent repositories I collaborated on:
-https://github.com/OwlAtom/reblabify 
-https://github.com/OwlAtom/Notezy
+- https://github.com/OwlAtom/reblabify 
+- https://github.com/OwlAtom/Notezy
 
 
 <!--
