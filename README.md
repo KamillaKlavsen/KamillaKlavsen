@@ -5,10 +5,6 @@ I'm a Multimedia Designer with a bachelor in Web Development
 - 🔭 currently looking for a frontend job 
 - 🔧 WebDev and UX/UI Design
 
-Recent repositories I collaborated on:
-- https://github.com/OwlAtom/reblabify 
-- https://github.com/OwlAtom/Notezy
-
 
 <!--
 **KamillaKlavsen/KamillaKlavsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
