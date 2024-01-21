@@ -2,7 +2,8 @@
 
 I'm a Multimedia Designer with a bachelor in Web Development
 
-- 🔭 currently looking for a frontend job 
+- 🔭 Looking for a frontend or design job 
+- 🌱 Currently working on becoming a certified React Developer from Udemy 
 - 🔧 WebDev and UX/UI Design
 
 
