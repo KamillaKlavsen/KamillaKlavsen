@@ -6,6 +6,8 @@ I'm a Multimedia Designer with a bachelor in Web Development
 - 🌱 Currently working on becoming a certified React Developer from Udemy 
 - 🔧 WebDev and UX/UI Design
 
+📫  Reach me on my mail kklavsen25@gmail.com or on my LinkedIn https://www.linkedin.com/in/kamilla-klavsen/ 
+
 Check out my repos or these websites that I've collaborated on: 
 - https://crossfitaalborg.dk/
 - https://thiseif.dk/
