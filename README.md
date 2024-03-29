@@ -7,8 +7,8 @@ I'm a Multimedia Designer with a bachelor in Web Development
 - 🔧 WebDev and UX/UI Design
 
 Check out my repos or these websites that I've collaborated on: 
-https://crossfitaalborg.dk/
-https://thiseif.dk/
+- https://crossfitaalborg.dk/
+- https://thiseif.dk/
 
 
 <!--
